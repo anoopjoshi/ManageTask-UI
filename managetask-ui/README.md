@@ -1,4 +1,31 @@
-# React + TypeScript + Vite
+# ManageTask-UI
+
+ManageTask-UI is a React application for managing tasks. It allows users to create, view, and delete tasks. The application uses TypeScript for type safety and Tailwind CSS for styling.
+
+## Features
+
+- **Create Task**: Add new tasks with a title and description.
+- **View Tasks**: Display a list of tasks with their details.
+- **Delete Task**: Remove tasks from the list with a confirmation prompt.
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Axios**: A promise-based HTTP client for making API requests.
+
+## Installation
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/your-username/ManageTask-UI.git
+   cd ManageTask-UI
+
+
+   
+   
+# Other instructions
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
